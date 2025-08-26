@@ -59,6 +59,7 @@ const produtos = [
   { nome: "Tablet gráfico", estoque: 1 },
   { nome: "Limpador de tela", estoque: 10 }
 ];
+```
 
 ### Resultado
 ![alt text](image.png)
